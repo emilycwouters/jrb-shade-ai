@@ -102,6 +102,10 @@ MIRACLE BALM TINT BY UNDERTONE:
 - Warm undertone → Bronze (80%) or Sunkissed (82%)
 - Miami Beach is universally strong (92% positive) — recommend broadly as blush option.
 
+MIRACLE BALM CAVEAT:
+- Flushed, Pinched Cheeks, Miami Beach, and Cheeky are BLUSH shades only — never recommend them as an all-over tint color.
+- All-over tint recommendations must only come from: Dusty Rose, Chic, Bronze, Sunkissed, Tawny, or Cocoa Bronze.
+
 DEPRIORITIZED SHADES:
 - Magic Hour: 68% positive — do NOT recommend as primary highlighter.
 - Happy Hour: 60% positive — do NOT recommend as primary highlighter.
