@@ -64,7 +64,7 @@ export const miracleBalmShades: MBRecommendation[] = [
   { skinTone: "Pale", usage: "Highlighter", type: "Primary", shade: "Golden Hour", copy: "Golden Hour gives you a warm, golden glow — luminous highlight that catches light beautifully." },
   // V2: All-Over Tint now varies by undertone
   { skinTone: "Pale", usage: "All-Over Tint", type: "Primary", shade: "Dusty Rose", copy: "Dusty Rose is a cool, rosy pink that warms up your complexion with a sheer wash of color — like your skin on its best day.", undertone: "Cool" },
-  { skinTone: "Pale", usage: "All-Over Tint", type: "Primary", shade: "Flushed", copy: "Flushed delivers a sheer, natural flush that evens things out and adds a quiet glow — effortless and universally flattering.", undertone: "Neutral" },
+  { skinTone: "Pale", usage: "All-Over Tint", type: "Primary", shade: "Chic", copy: "Chic adds a warm, sophisticated tint that brings out the warmth in your complexion — subtle and elegant.", undertone: "Neutral" },
   { skinTone: "Pale", usage: "All-Over Tint", type: "Primary", shade: "Chic", copy: "Chic adds a warm, sophisticated tint that brings out the warmth in your complexion — subtle and elegant.", undertone: "Warm" },
   { skinTone: "Pale", usage: "Colorless Glow", type: "Primary", shade: "Au Naturel", copy: "Au Naturel gives you all the moisture and light-reflecting luminosity with zero color — just healthy, dewy skin." },
 
@@ -90,7 +90,7 @@ export const miracleBalmShades: MBRecommendation[] = [
   { skinTone: "Light", usage: "Highlighter", type: "Primary", shade: "Golden Hour", copy: "Golden Hour gives you a warm, golden glow — like the last hour of sunlight on your cheekbones." },
   // V2: Undertone-aware tint defaults
   { skinTone: "Light", usage: "All-Over Tint", type: "Primary", shade: "Dusty Rose", copy: "Dusty Rose gives light skin a rosy, healthy warmth — a sheer wash that makes you look naturally put-together.", undertone: "Cool" },
-  { skinTone: "Light", usage: "All-Over Tint", type: "Primary", shade: "Flushed", copy: "Flushed delivers a sheer, natural pink tint that evens out your skin and adds a quiet glow.", undertone: "Neutral" },
+  { skinTone: "Light", usage: "All-Over Tint", type: "Primary", shade: "Chic", copy: "Chic adds a warm, sophisticated tint that brings a natural, even glow to light complexions — subtle and effortless.", undertone: "Neutral" },
   { skinTone: "Light", usage: "All-Over Tint", type: "Primary", shade: "Sunkissed", copy: "Sunkissed gives warm-toned light skin a beautiful golden warmth — like a sheer wash of sunshine.", undertone: "Warm" },
   { skinTone: "Light", usage: "Tint Alt", type: "Alt", shade: "Chic", copy: "Chic adds a deeper, warmer dimension — a sophisticated bronze-tint if you want to look slightly sun-warmed." },
   { skinTone: "Light", usage: "Colorless Glow", type: "Primary", shade: "Au Naturel", copy: "Au Naturel is pure glow — all the moisture and light-reflecting finish with zero color commitment." },
