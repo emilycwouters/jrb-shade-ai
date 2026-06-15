@@ -240,7 +240,7 @@ export async function POST(request: NextRequest) {
     const base64Data = match[2];
 
     const response = await anthropic.messages.create({
-      model: "claude-sonnet-4-20250514",
+      model: "claude-sonnet-4-5",
       max_tokens: 500,
       messages: [
         {
