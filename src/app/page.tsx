@@ -110,7 +110,7 @@ export default function Home() {
         recommendedFoundationStick:
           aiResult?.complexion.shades?.foundationStickShade || "",
         imageData: thumbnail,
-        version: "v4",
+        version: "v5",
       };
 
       const res = await fetch("/api/feedback", {

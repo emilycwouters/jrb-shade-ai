@@ -317,7 +317,7 @@ export async function POST(request: NextRequest) {
         shades,
         needsNeutralizer: undertone !== "Warm",
       },
-      version: "v4", // V4 indicator for frontend
+      version: "v5", // V5 indicator for frontend
     });
   } catch (error) {
     console.error("Shade matching error:", error);
