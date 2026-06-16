@@ -79,7 +79,7 @@ export const miracleBalmShades: MBRecommendation[] = [
   { skinTone: "Fair", usage: "All-Over Tint", type: "Primary", shade: "Dusty Rose", copy: "Dusty Rose gives you a sheer, rosy wash that evens things out and adds a quiet glow — effortless, like you just got back from a walk.", undertone: "Cool" },
   { skinTone: "Fair", usage: "All-Over Tint", type: "Primary", shade: "Chic", copy: "Chic adds a warm, sophisticated tint — a subtle bronze wash that brings out the best in neutral skin.", undertone: "Neutral" },
   { skinTone: "Fair", usage: "All-Over Tint", type: "Primary", shade: "Bronze", copy: "Bronze gives your warm undertones a beautiful golden glow — like a sheer wash of sunlight.", undertone: "Warm" },
-  { skinTone: "Fair", usage: "Tint Alt", type: "Alt", shade: "Flushed", copy: "If you want a lighter, pinker wash — Flushed adds a fresh, rosy tint that's universally flattering." },
+  { skinTone: "Fair", usage: "Tint Alt", type: "Alt", shade: "Dusty Rose", copy: "If you want a lighter, pinker wash — Dusty Rose adds a sheer, rosy tint that's cool-toned and universally flattering on fair skin." },
   { skinTone: "Fair", usage: "Colorless Glow", type: "Primary", shade: "Au Naturel", copy: "Au Naturel delivers moisture and luminosity with no color at all — just your skin, but dewier." },
 
   // ── Light ──

@@ -44,8 +44,8 @@ This step is mandatory — do not skip it or improvise the translation.
 
 | Skin Tone (your output) | WTF Shade | Notes |
 |---|---|---|
-| Pale | Porcelain | Palest, pinkest skin only — translucent/porcelain appearance |
-| Fair | Fair | Any visible warmth → push to Ivory instead |
+| Pale | Alabaster | Palest, most translucent skin — if skin appears porcelain/translucent, use Alabaster not Porcelain |
+| Fair | Porcelain / Fair | Porcelain for rosy fair skin; Fair for neutral fair skin |
 | Fair (warm) | Ivory | Warm fair skin is frequently miscalled as Fair |
 | Light | Beige | Beige is the most common match (~40%) — default here when uncertain |
 | Light-Medium | Beige / Medium | Lean Medium if there is any depth or warmth |
@@ -76,7 +76,7 @@ These mappings have been validated against thousands of customer outcomes.
 V4 feedback (93 submissions): "Too Dark" errors (25%) now OUTPACE "Too Light" errors (20%). The V4 lean-darker rule overcorrected on lighter customers. V5 uses a TIERED approach:
 
 - **Pale to Light-Medium**: Lean ONE SHADE LIGHTER when between two options. Selfie lighting washes these customers out less than it does darker skin, and they are being over-called as darker.
-- **Medium to Medium-Dark**: This is the balanced zone — call exactly what you see. Do not lean either direction.
+- **Medium to Medium-Dark**: This is the balanced zone — call exactly what you see. Do not lean either direction. NOTE: Medium Honey is frequently under-called. If the customer has a golden, honey-toned complexion with depth that rules out Light-Medium, call Medium or Medium-Dark — not Light-Medium with a warm undertone.
 - **Dark to Deep**: Lean ONE SHADE DARKER. The model still under-calls depth for darker customers. If it could be Dark or Deep, go Deep.
 
 This replaces V4's instruction to "always lean darker." Apply the correct rule for the customer's range.
